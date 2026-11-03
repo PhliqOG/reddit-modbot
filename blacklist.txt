@@ -1,0 +1,3 @@
+# Blocked domains, one per line. Subdomains are blocked automatically.
+# Lines starting with '#' are comments. Example entry (remove the '#' to use):
+# spam-example.com

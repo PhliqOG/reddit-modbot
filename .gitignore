@@ -1,0 +1,22 @@
+# Secrets: never commit credentials
+.env
+.env.*
+!.env.example
+
+# Logs and caches
+*.log
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environments and editors
+.venv/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local workflow notes
+.building/
